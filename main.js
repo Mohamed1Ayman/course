@@ -2,7 +2,7 @@ const btn = document.getElementById("loveBtn");
 const box = document.getElementById("messageBox");
 const text = document.getElementById("text");
 
-const message = "I love you babe, Alaa❤️";
+const message = "I love you babe, Alaa ❤️";
 
 btn.addEventListener("click", () => {
 
